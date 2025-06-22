@@ -1,0 +1,8 @@
+name = "terms"
+type = "javascript"
+account_id = "<your_account_id>"
+compatibility_date = "2025-06-22"
+
+[site]
+bucket = "./public"
+entry-point = "."
