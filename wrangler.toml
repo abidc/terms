@@ -1,8 +1,0 @@
-name = "terms"
-type = "javascript"
-account_id = "16c74ce7b3d02c21a20e307fd2c10f25"
-compatibility_date = "2025-06-22"
-
-[site]
-bucket = "./public"
-entry-point = "."
